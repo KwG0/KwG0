@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oi! tudo bem? ###
 
-<!--
-**KwG0/KwG0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 😊 Me chamo Kauanne (ela/dela)
+- ✨ Tenho 17 anos
+- 🌱 Atualmente estudo Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/KwG0">
+    <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=KwG0&show_icons-true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwG0&layout=compact&langs_count=16&theme=omni"/>
+</div>
+ 
+##
+<div>
+  <a href="https://www.instagram.com/kwg.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/channels/@KwG_me#0690" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
