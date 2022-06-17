@@ -1,7 +1,7 @@
 ### Oi! tudo bem? ###
 
 
-- 😊 Me chamo Kauanne (ela/dela)
+- 😊 Me chamo Kauanne
 - ✨ Tenho 17 anos
 - 🌱 Atualmente estudo ReactJs
 
