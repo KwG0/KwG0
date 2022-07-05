@@ -3,7 +3,7 @@
 
 - 😊 Me chamo Kauanne
 - ✨ Tenho 17 anos
-- 🌱 Atualmente estudo ReactJs
+- 🌱 Atualmente estudo ReactJs e Pentest
 
 <div>
   <a href="https://github.com/KwG0">
