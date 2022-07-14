@@ -3,7 +3,7 @@
 
 - 😊 Me chamo Kauanne
 - ✨ Tenho 17 anos
-- 🌱 Atualmente odian- cof cof - estudando ReactJs
+- 🌱 Atualmente estudando PHP <3
 
 <div>
   <a href="https://github.com/KwG0">
