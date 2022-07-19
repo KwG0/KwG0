@@ -4,7 +4,7 @@
 - 😊 Me chamo Kauanne
 - ✨ Tenho 17 anos
 - 🌱 Estudante Back-end <3
-- 📍 Linguagem atual: PhP 
+- 📍 Linguagem atual: PHP 
 <br>
 
 <div>
