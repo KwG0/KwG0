@@ -6,7 +6,7 @@
 
 - 😊 My name's Kauanne Gomes, I'm from Brazil.
 - ✨ 17 yo.
-- 📍 I'm learning PHP and I'd be a Back-end Dev ❤️
+- 📍 I'm learning PHP and I'd be a Back-End Dev ❤️
 <br>
 
 ### <h3 align="right">_Language and Tools_</h3>
