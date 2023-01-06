@@ -7,27 +7,6 @@
 - 😊 My name's Kauanne Gomes, I'm from Brazil.
 - ✨ 17 yo.
 - 🌿 Learning Java 
-
-<br>
-
-### <h3 align="right">_Language and Tools_</h3>
-
-<br>
-
-<div align="right">
-
- <img align="right" alt="HTML" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="right" alt="CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="right" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
- <img align="right" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <br>
- <br>
- <img align="right" alt="Linux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- <img align="right" alt="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img align="right" alt="vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
- </div>
-<br>
 <br>
 <hr>
 
