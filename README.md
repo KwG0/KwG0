@@ -5,7 +5,7 @@
 <br/>
 
 - 😊 My name's Kauanne Gomes, I'm from Brazil.
-- ✨ 17 yo.
+- ✨ 18 yo.
 - 🌿 Learning Java 
 <br>
 <hr>
