@@ -6,7 +6,7 @@
 
 - 😊 My name's Kauanne Gomes, I'm from Brazil.
 - ✨ 18 yo.
-- 🌿 Learning Java 
+- 🌿 Learning Linux Server & Docker 
 <br>
 <hr>
 
