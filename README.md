@@ -1,13 +1,4 @@
 
-### <h2 align="center">Hello Everyone 😊</h2>
-<br/>
-<p align="center"> Welcome to my profile! I hope you enjoy it<3</p>
-<br/>
-
-- 😊 My name's Kauanne Gomes, I'm from Brazil.
-- ✨ 18 yo.
-- 🌿 Learning something new
-<br>
 <hr>
 
 ### <h3 align="center"> Github Stats </h3>
