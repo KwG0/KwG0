@@ -13,5 +13,5 @@
   </a>
 </div>
 <hr>
-![Snake animation](https://github.com/KwG0/KwG0/blob/output/github-contribution-grid-snake.svg)
+
 
