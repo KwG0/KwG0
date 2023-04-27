@@ -13,4 +13,5 @@
   </a>
 </div>
 <hr>
-<a href="https://github.com/KwG0/KwG0/blob/output/github-contribution-grid-snake.svg">
+![Snake animation](https://github.com/KwG0/KwG0/blob/output/github-contribution-grid-snake.svg)
+
