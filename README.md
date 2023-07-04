@@ -9,7 +9,7 @@ Atualmente estudo e desenvolvo mini projetinhos de algumas plataformas, por exem
 Eu gosto de ler livros, ouvir música e jogar. Eu também gosto de conhecer novas culturas e fazer novas amizades.
 
 ### Quais são os meus interesses
-Eu me interesso por temas como sustentabilidade, energia renovável, internet das coisas, realidade virtual e aumentada, nanotecnologia e biotecnologia. Eu quero contribuir para o desenvolvimento científico e tecnológico da sociedade e do planeta.
+Eu me interesso por temas como sustentabilidade, eletrônica, internet das coisas, realidade virtual e aumentada, nanotecnologia.
 
 ### Como me encontrar
 Você pode me encontrar nas redes sociais:
