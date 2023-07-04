@@ -24,10 +24,10 @@ Você pode me encontrar nas redes sociais:
 
 <div align="center">
   <a href="https://github.com/KwG0">
-    <img height="155cm" src="https://github-readme-stats.vercel.app/api?username=KwG0&count_private=true&theme=omni&include_all_commits=true&show_icons=true"/>
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=KwG0&count_private=true&theme=omni&include_all_commits=true&show_icons=true"/>
   </a>
   <a href="https://github.com/KwG0">
-    <img height="155cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwG0&count_private=true&theme=omni&langs_count=8&layout=compact"/>
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwG0&count_private=true&theme=omni&langs_count=8&layout=compact"/>
   </a>
 </div>
 <hr>
