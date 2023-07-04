@@ -14,9 +14,9 @@ Eu me interesso por temas como sustentabilidade, energia renovável, internet da
 ### Como me encontrar
 Você pode me encontrar nas redes sociais:
 
-<br/>🍀 LinkedIn <a href="www.linkedin.com/in/kwg0" target="_blank">
-<br/>🍀 Steam <a href="https://steamcommunity.com/id/kwg001/" target="_blank">
-<br/>🍀 Instagram <a href="https://www.instagram.com/kwg.me/" target="_blank">
+<a href="www.linkedin.com/in/kwg0" target="_blank">🍀 LinkedIn <br/> 
+<a href="https://steamcommunity.com/id/kwg001/" target="_blank">🍀 Steam <br/>
+<a href="https://www.instagram.com/kwg.me/" target="_blank">🍀 Instagram <br/>
 <hr>
 
 ### <h3 align="center"> Github Stats </h3>
