@@ -2,9 +2,6 @@
 ### Sobre mim
 Eu sou uma recém matriculada em Eletroeletrônica - Senai e em Engenharia da Computação - Univesp. Me interesso na área de tecnologia e inovação, e gosto de aprender coisas novas, pois isso me ajuda a resolver problemas e criar soluções que possam melhorar as coisas.
 
-### O que eu faço
-Atualmente estudo e desenvolvo mini projetinhos de algumas plataformas, por exemplo a DIO.
-
 ### O que eu gosto
 Eu gosto de ler livros, ouvir música e jogar. Eu também gosto de conhecer novas culturas e fazer novas amizades.
 
