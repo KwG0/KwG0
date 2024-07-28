@@ -2,12 +2,6 @@
 ### Sobre mim
 Estou cursando um técnico em Eletroeletrônica - Senai e um ensino superior em Engenharia da Computação - Univesp. Me interesso na área de tecnologia e inovação, e gosto de aprender coisas novas.
 
-### O que eu gosto
-Eu gosto de ler livros, ouvir música e jogar. Eu também gosto de conhecer novas culturas e fazer novas amizades, além de mudar muitas vezes de distros.
-
-### Quais são os meus interesses
-Eu me interesso por temas como sustentabilidade, eletrônica, internet das coisas, realidade virtual e aumentada, nanotecnologia.
-
 ### Como me encontrar
 Você pode me encontrar nas redes sociais:
 
