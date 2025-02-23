@@ -20,15 +20,15 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  /></a>
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  /></a>
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  /></a>
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  /></a>
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  /></a>
 </div>
 
 ###
