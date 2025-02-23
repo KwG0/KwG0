@@ -4,13 +4,13 @@
 - 🌱 Curso Engenharia da Computação e Eletroeletrônica
 - 💻 Trilha em Foco: DevOps
 - 👩🏽‍🔧 Perfil em Construção...
-<hr>
+<br>
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwG0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KwG0&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwG0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KwG0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=KwG0&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwG0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -56,6 +56,7 @@
   <a href="#"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"></a>
   <a href="#"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"></a>
 </div>
+<hr>
 
 ###
 
