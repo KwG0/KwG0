@@ -1,12 +1,11 @@
-# Olá!
-### Sobre mim
-Estou cursando um técnico em Eletroeletrônica - Senai e um ensino superior em Engenharia da Computação - Univesp. Me interesso na área de tecnologia e inovação, e gosto de aprender coisas novas.
+## Olá! Tudo bem?
+### Eu me chamo Kauanne <3 👋
 
-### Como me encontrar
-Você pode me encontrar nas redes sociais:
-
-<a href="https://www.linkedin.com/in/kwg0/" target="_blank">🍀 LinkedIn <br/> 
-<a href="https://steamcommunity.com/id/kwg001/" target="_blank">🍀 Steam <br/>
+- 🌱 Curso Engenharia da Computação e Eletroeletrônica
+- 💻 Trilha em Foco: DevOps
+- 📫 Entre em contato:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwg0) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kwg001)
+ 
+- 🌐 Confira meu portfólio:
 <hr>
 
 ### <h3 align="center"> Github Stats </h3>
@@ -21,5 +20,8 @@ Você pode me encontrar nas redes sociais:
   </a>
 </div>
 <hr>
-
-
+[![Morse](https://github-readme-stats.vercel.app/api?username=kwg0&show_icons=true&theme=radical&hide_title=true&hide_rank=true)](https://github.com/kwg0)
+<br>
+<hr>
+<br>
+![funny cat gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
