@@ -1,25 +1,67 @@
-# Olá!
-### Sobre mim
-Estou cursando um técnico em Eletroeletrônica - Senai e um ensino superior em Engenharia da Computação - Univesp. Me interesso na área de tecnologia e inovação, e gosto de aprender coisas novas.
+## Olá! Tudo bem?
+### Eu me chamo Kauanne <3 👋
 
-### Como me encontrar
-Você pode me encontrar nas redes sociais:
+- 🌱 Curso Engenharia da Computação e Eletroeletrônica
+- 💻 Trilha em Foco: DevOps
+- 📫 Entre em contato: <br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kwg0) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kwg001)
 
-<a href="https://www.linkedin.com/in/kwg0/" target="_blank">🍀 LinkedIn <br/> 
-<a href="https://steamcommunity.com/id/kwg001/" target="_blank">🍀 Steam <br/>
 <hr>
-
-### <h3 align="center"> Github Stats </h3>
-<br>
 
 <div align="center">
-  <a href="https://github.com/KwG0">
-    <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=KwG0&count_private=true&theme=omni&include_all_commits=true&show_icons=true"/>
-  </a>
-  <a href="https://github.com/KwG0">
-    <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwG0&count_private=true&theme=omni&langs_count=8&layout=compact"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KwG0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=KwG0&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwG0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="140" alt="languages graph"  />
 </div>
-<hr>
 
+###
 
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/91920835?v=4"  />
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+  <img width="7" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KwG0/KwG0/output/snake.svg" alt="Snake animation" />
+
+###
