@@ -8,9 +8,9 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwG0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KwG0&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwG0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KwG0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=KwG0&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwG0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="languages graph"  />
 </div>
 
 ###
