@@ -1,4 +1,4 @@
-## Olá! Tudo bem?
+## ❤️ Olá! Tudo bem?
 ### Eu me chamo Kauanne <3 👋
 
 - 🌱 Curso Engenharia da Computação e Eletroeletrônica
