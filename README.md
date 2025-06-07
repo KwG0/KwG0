@@ -1,10 +1,11 @@
 ## ❤️ Olá! Tudo bem?
 ### Eu me chamo Kauanne <3 👋
 
-- ❤️ Tenho 20 aninhos e moro em SP
-- 🌱 Curso Engenharia da Computação e Eletroeletrônica
-- 💻 Trilha em Foco: DevOps
-- 👩🏽‍🔧 Atuo como Técnica em Eletrônica
+- ❤️ Tenho 20 aninhos
+- 🎓 Sou Formada em Eletroeletrônica
+- 🌱 Curso Engenharia da Computação
+- 💻 Trilha em Foco: Tentando DevOps
+- 👩🏽‍🔧 Atuo como Eletrônica
 <br>
 <br>
 
