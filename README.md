@@ -9,10 +9,9 @@
 <br>
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KwG0&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="120"/>
-  <img src="https://streak-stats.demolab.com?user=KwG0&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwG0&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KwG0&hide_title=false&show_icons=true&include_all_commits=true&&card_width=380count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KwG0&locale=pt-br&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dark&hide_border=true" height="180" alt="languages graph"  />
 </div>
 <br>
 
