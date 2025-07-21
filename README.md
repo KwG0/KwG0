@@ -5,7 +5,6 @@
 - 🎓 Sou Formada em Eletroeletrônica
 - 🌱 Curso Engenharia da Computação
 - 💻 Trilha em Foco: Tentando DevOps
-- 👩🏽‍🔧 Atuo como Eletrônica
 <br>
 <br>
 
